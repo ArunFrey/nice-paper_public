@@ -1,0 +1,28 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+
+# Data files
+data/raw/soep/*
+data/raw/allbus/*
+data/edit/*
+
+
+# Old files
+old/*
+
+# Submission files
+submission/*
+
+# Latex files
+latex/*
+
+# Output
+output/models/*
+
+# Misc
+misc/*
+
