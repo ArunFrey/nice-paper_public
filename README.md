@@ -9,7 +9,7 @@ There is growing academic interest in examining how terrorist attacks shape the 
 
 
 ## Survey access
-To replicate this paper, one has to first apply for and obtain access to the [ALLBUS](https://www.gesis.org/allbus/allbus) and [SOEP](https://www.diw.de/en/diw_01.c.601584.en/data_access.html) survey data, and place the raw survey data files in the `data\raw\soep` and `data\raw\allbus` subfolders. You can generate the structure of the repository by running `generate_folder_structure.R`. 
+To replicate this paper, one has to first apply for and obtain access to the [ALLBUS](https://www.gesis.org/allbus/allbus) and [SOEP](https://www.diw.de/en/diw_01.c.601584.en/data_access.html) survey data, and place the raw survey data files in the `data\raw\soep` and `data\raw\allbus` subfolders. You can generate the structure of the repository by running the `generate_folder_structure.R` script. 
 
 ## Structure
 The structure of the repository is as follows:
@@ -32,3 +32,6 @@ The structure of the repository is as follows:
 __Arun Frey__
 Arun Frey is a Postdoctoral Researcher with the Leverhulme Centre for Demographic Science, and a member of the Department of Sociology at the University of Oxford. His research interests include immigration and group conflict, inequality, and causal inference and computational social science. His work has appeared in the _Proceedings of the National Academy of Sciences_, _Social Forces_, _PLOS One_ ,and the _European Sociological Review_. 
 
+
+## License 
+The replication material is licenced under the [MIT License](https://choosealicense.com/licenses/mit/). 
