@@ -18,6 +18,7 @@ The structure of the repository is as follows:
 
 ## Code 
 * `00_run_scripts.R`: runs all scripts, and generates all tables and plots that feature in the paper and the appendix. 
+* `gen_folder_structure.R`: this script creates the folder structure of the R Project (you only need to run this once, at the start of working on the project). 
 * `01_cleaning_allbus.R`: Cleans the ALLBUS survey data. 
 * `01_cleaning_soep.R`: Cleans the SOEP survey data.  
 * `02_imputation.R`: imputes missing values.
@@ -26,7 +27,6 @@ The structure of the repository is as follows:
 * `05_main.R`: generates the main results reported in the paper.  
 * `05_r_*`: generates the robustness and placebo estimates: each script re-estimates the main results but using a different specification. 
 * `06_plot.R`: generates all plots used in the main analysis and across all robustness checks. 
-* `gen_folder_structure.R`: this script creates the folder structure of the R Project. 
 
 ## Authors
 __Arun Frey__ is a Postdoctoral Researcher with the Leverhulme Centre for Demographic Science, and a member of the Department of Sociology at the University of Oxford. His research interests include immigration and group conflict, inequality, and causal inference and computational social science. His work has appeared in the _Proceedings of the National Academy of Sciences_, _Social Forces_, _PLOS One_ ,and the _European Sociological Review_. 
