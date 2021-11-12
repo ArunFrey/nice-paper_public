@@ -33,7 +33,7 @@ To execute the code, specify the main repository folder as the working directory
 * `06_plot.R`: generates all plots used in the main analysis and across all robustness checks. 
 
 ## Authors
-__Arun Frey__ is a Postdoctoral Researcher with the Leverhulme Centre for Demographic Science, and a member of the Department of Sociology at the University of Oxford. His research interests include immigration and group conflict, inequality, and causal inference and computational social science. His work has appeared in the _Proceedings of the National Academy of Sciences_, _Social Forces_, _PLOS One_ ,and the _European Sociological Review_. 
+__Arun Frey__ is a Postdoctoral Researcher with the Leverhulme Centre for Demographic Science, and a member of the Department of Sociology at the University of Oxford. His research interests include immigration and group conflict, inequality, and causal inference and computational social science. His work has appeared in the _Proceedings of the National Academy of Sciences_, _Social Forces_, _PLOS One_, and the _European Sociological Review_. 
 
 
 ## License 
