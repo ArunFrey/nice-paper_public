@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this replication material, please cite it as below."
 authors:
   - family-names: Frey
     given-names: Arun
     orcid: https://orcid.org/0000-0002-5044-1432
-title: "Replication code for ``Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment"
-doi: 10.5281/zenodo.1234
-date-released: 2021-11-03
+title: "Replication material for Frey, Arun (2021) 'Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment', _Social Forces_, 10.1093/sf/soab135."
+version: 1.0.0
+date-released: 2021-12-11
