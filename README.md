@@ -1,5 +1,7 @@
 # Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment 
 
+[![DOI](https://zenodo.org/badge/424333565.svg)](https://zenodo.org/badge/latestdoi/424333565)
+
 
 This is a repository to accompany '_Getting under the Skin: The Impact of Terrorist Attacks on Native and Immigrant Sentiment_'. All code on which this analysis is based was written in the [**R**](https://www.r-project.org/) statistical programming language.
 
